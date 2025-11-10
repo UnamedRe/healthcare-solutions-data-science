@@ -112,6 +112,28 @@ O projeto segue o **ciclo completo de Ciência de Dados**:
 
 ---
 
+
+## 📋 Levantamento de Requisitos - Entrevista Simulada com a Gestão da HealthCare Solutions
+
+Durante a etapa de planejamento do projeto, foram realizadas entrevistas simuladas com gestores e profissionais da área de saúde.  
+Abaixo estão **10 perguntas e respostas** que orientaram o desenvolvimento do projeto de Ciência de Dados:
+
+| Nº | Pergunta | Resposta Simulada |
+|----|-----------|------------------|
+| 1 | Quais são os principais indicadores de desempenho hospitalar atualmente monitorados? | Taxa de readmissão em 30 dias, tempo médio de permanência e nível de satisfação dos pacientes. |
+| 2 | Há integração entre os sistemas administrativos e clínicos? | Não totalmente. Os sistemas funcionam em silos, exigindo consolidação manual de dados. |
+| 3 | Que tipo de dados os dispositivos de monitoramento coletam? | Frequência cardíaca média, pressão arterial e passos diários registrados por wearables. |
+| 4 | O hospital possui histórico de pesquisas de satisfação? | Sim, as pesquisas são aplicadas digitalmente e armazenadas em formato CSV desde 2022. |
+| 5 | Qual é o principal problema relatado pelos pacientes? | Tempo de espera elevado e falta de acompanhamento pós-alta. |
+| 6 | Como é feita a anonimização dos dados sensíveis? | Identificadores pessoais são removidos e substituídos por IDs internos antes da análise. |
+| 7 | Qual o objetivo principal da análise de dados neste projeto? | Reduzir a taxa de readmissão hospitalar e aumentar o índice de satisfação. |
+| 8 | Existe alguma restrição legal quanto ao uso dos dados? | Sim, é necessário seguir integralmente a LGPD e manter auditoria sobre o uso dos dados. |
+| 9 | Quais setores devem ter acesso aos dashboards e relatórios? | Diretoria médica, setor administrativo e equipe de qualidade. |
+| 10 | Há planos de expansão do sistema de análise? | Sim, a intenção é integrar modelos preditivos ao sistema hospitalar interno até 2026. |
+
+Essas informações permitiram compreender as necessidades da instituição e alinhar as soluções de Data Science às metas estratégicas da empresa.
+
+
 ## 🔐 Aspectos Éticos e Legais
 
 O projeto respeita os princípios da **Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018)**, garantindo anonimização dos dados e uso apenas para fins acadêmicos.
@@ -140,3 +162,4 @@ A entrega original do trabalho incluía também um vídeo explicativo (*não obr
 Este projeto contém apenas a parte teórica e prática completa.
 
 ---
+
